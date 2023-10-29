@@ -4,6 +4,9 @@
 The Call centre data in Excel is being cleaned ,transformed and analysed using Power Query and also various measures are created to calculate various KPI's in Call centre's perfomance.
 Finally ,the KPI's and other related data are visualized using PowerBI Dashboard.
 
+<img width="788" alt="Call Centre" src="https://github.com/ramyashub/Call-Centre-Data-Analysis-Dashboard/assets/142486833/53430243-7ca9-4f87-a8db-77ed5cd575cb">
+
+
 ## Data Sources
 Call Centre Data - The primary dataset used in the analysis is "Call Centre data .csv" file containing all the information about the call centre for the  month of October 2020 with over 32000 rows in Microsoft Excel.
 
