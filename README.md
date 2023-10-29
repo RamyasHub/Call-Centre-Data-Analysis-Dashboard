@@ -33,7 +33,7 @@ Data is analysed on different parameters such as Total Calls by Day,Total Calls 
 ###  The analysis is summarized as follows
 
 1. KPI's for the month of October 2020 is calculated.
-2. More number of calls received are on Thursday's and Friday'd of the week.
+2. More number of calls received are on Thursday's and Friday's of the week.
 3. California and Texas are the cities from where more calls are recived.
 4. In the sentiment analysis, more negative responses from the customers are recorded for this month.
 5. Billing Questions are found to be the reason for more number of calls.
@@ -42,7 +42,7 @@ Data is analysed on different parameters such as Total Calls by Day,Total Calls 
 
 ## Recommendations
 
-1. As the previous months data is not available KPI performance can be compared.
+1. As the previous months data is not available KPI performance cannot be compared.
 2. Based on the data available,it is found that Billing Questions are found to be the reason for more number of calls, so a clear document be shared with the customers which should contain the answers to their maximum questions,which may result in less number of calls and also the customer service agents can focus on others issues repoerted by the customers.
 3. Ther are more negative responses received by the customers,should put more effort to improve it.
 
